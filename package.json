@@ -1,0 +1,20 @@
+{
+  "name": "airdrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "tslib": "^2.6.0",
+    "typescript": "^5.1.5"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.77.3",
+    "fast-csv": "^4.3.6"
+  }
+}
